@@ -1,0 +1,12 @@
+Phase 1):
+1. Get vibe from text through some form of sentiment analysis. 
+2. Attach different vibes to different colors. Perhaps there can be different modes and elements of randomness. 
+3. Get lyrics of song online through some kind of api. 
+4. Get spotify song that is currently being played.
+5. Combine into coherent work that changes color based on sentiment of words of song. 
+6. Attach desired color to LED lights. 
+
+Phase 2): 
+1. Listen with microphone and get sentiment from that. 
+2. Attach different vibe to different sentiment. 
+3. Integrate with phase 1. 
